@@ -9,7 +9,7 @@
 <title>Discord</title>
 
 <link rel="icon" href="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png">
-<link rel="apple-touch-icon" href="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png
+<link rel="apple-touch-icon" href="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png">
 
 <style>
 *{
