@@ -6,12 +6,10 @@
 <meta name="theme-color" content="#820ad1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<title>Nubank</title>
+<title>Discord</title>
 
-<link rel="icon" href="https://logodownload.org/wp-content/uploads/2019/08/nubank-logo-3.png">
-<link rel="apple-touch-icon" href="https://logodownload.org/wp-content/uploads/2019/08/nubank-logo-3.png">
-
-<link rel="manifest" href="data:application/json;base64,ewogICJuYW1lIjogIk51YmFuayIsCiAgInNob3J0X25hbWUiOiAiTnViYW5rIiwKICAic3RhcnRfdXJsIjogIi8iLAogICJkaXNwbGF5IjogInN0YW5kYWxvbmUiLAogICJiYWNrZ3JvdW5kX2NvbG9yIjogIiM4MjBhZDEiLAogICJ0aGVtZV9jb2xvciI6ICIjODIwYWQxIiwKICAiaWNvbnMiOiBbCiAgICB7CiAgICAgICJzcmMiOiAiaHR0cHM6Ly9sb2dvZG93bmxvYWQub3JnL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA4L251YmFuay1sb2dvLTMucG5nIiwKICAgICAgInNpemVzIjogIjE5MngxOTIiLAogICAgICAidHlwZSI6ICJpbWFnZS9wbmciCiAgICB9LAogICAgewogICAgICAic3JjIjogImh0dHBzOi8vbG9nb2Rvd25sb2FkLm9yZy93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wOC9udWJhbmstbG9nby0zLnBuZyIsCiAgICAgICJzaXplcyI6ICI1MTJ4NTEyIiwKICAgICAgInR5cGUiOiAiaW1hZ2UvcG5nIgogICAgfQogIF0KfQ==">
+<link rel="icon" href="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png">
+<link rel="apple-touch-icon" href="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png
 
 <style>
 *{
